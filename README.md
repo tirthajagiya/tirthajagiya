@@ -2,7 +2,7 @@
 <h3 align="center">I Am Study In B.Tech_CSE 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirthajagiya5618&label=Profile%20views&color=0e75b6&style=flat" alt="tirthajagiya5618" /> </p>
-<img  width="370px" height="220px" align="right" src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI2MTg1NzYsIm5iZiI6MTcyMjYxODI3NiwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODAyVDE3MDQzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVkYzA0Yzk0N2I4ODYwZDVlMWFhNWQzYzYxYTE4MDkxZDY3NDI0NjdhZWE2OTFhNzg3NWZlMGNjMWE5NzEzOGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.SuSmai-h2Rz4mA9KZiGKter4pdzI32i30qVk2csVZek">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" data-target="animated-image.originalLink"><img align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 - 🔭 I’m currently working on **JS(Games)**
 
